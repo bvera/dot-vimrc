@@ -1,5 +1,5 @@
 # dot-vimrc
 
-My simple and usefull (to me) `.vimrc`
+My simple and usefull `.vimrc`
 
 William Vera hi@billy.mx
