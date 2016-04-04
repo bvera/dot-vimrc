@@ -2,4 +2,5 @@
 
 My simple and usefull `.vimrc`
 
-William Vera hi@billy.mx
+William Vera 
+hi@billy.mx
