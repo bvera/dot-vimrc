@@ -3,4 +3,4 @@
 My simple and usefull `.vimrc`
 
 William Vera  
-hi@billy.mx
+billy@billy.mx
